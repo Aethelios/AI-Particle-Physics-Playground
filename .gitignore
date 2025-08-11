@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+
+
+# Jupyter and Colab
+.ipynb_checkpoints/
+
+# Training Logs
+training_logs/
+
+# Models
+*.pth
